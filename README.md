@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-<img src="https://img.utdstc.com/icon/3c3/023/3c30232730dafce72dcc24328f4c95f6096b3b60c0049eb895f8a455bc33a71b:200 width="50%"">
-
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 ### 🧰 Languages & Tools
 
