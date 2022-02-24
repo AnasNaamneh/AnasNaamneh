@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-<img src="https://www.linkedin.com/in/anasnaamneh/">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 
 
 
