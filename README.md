@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 I’m looking to collaborate on React Projects
 - 📫 How to reach me: naamnih.anas@gmail.com
 
 
